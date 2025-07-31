@@ -12,5 +12,5 @@ Topics Covered:
 
 Possible Future Direction - Explore Projects:
 
-Advanced Data Structures & Sorting Algorithms
-Utilizing APIs for Development
+- Advanced Data Structures & Sorting Algorithms
+- Utilizing APIs for Development
